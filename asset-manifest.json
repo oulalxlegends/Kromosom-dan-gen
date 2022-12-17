@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Kromosom-dan-gen/static/css/main.e81da983.css",
+    "main.css": "/Kromosom-dan-gen/static/css/main.83f8b3fe.css",
     "main.js": "/Kromosom-dan-gen/static/js/main.239e47e6.js",
     "static/media/Ornamen.png": "/Kromosom-dan-gen/static/media/Ornamen.a00c6d947daf65366cbe.png",
     "static/media/song.mp3": "/Kromosom-dan-gen/static/media/song.0786cc30474d026399b2.mp3",
@@ -36,11 +36,11 @@
     "static/media/ArrowLeft.svg": "/Kromosom-dan-gen/static/media/ArrowLeft.75d07789a353ae3928695301c37c7f20.svg",
     "static/media/ArrowRight.svg": "/Kromosom-dan-gen/static/media/ArrowRight.a61996aca19c594fb4dbf10c5ef46edf.svg",
     "index.html": "/Kromosom-dan-gen/index.html",
-    "main.e81da983.css.map": "/Kromosom-dan-gen/static/css/main.e81da983.css.map",
+    "main.83f8b3fe.css.map": "/Kromosom-dan-gen/static/css/main.83f8b3fe.css.map",
     "main.239e47e6.js.map": "/Kromosom-dan-gen/static/js/main.239e47e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e81da983.css",
+    "static/css/main.83f8b3fe.css",
     "static/js/main.239e47e6.js"
   ]
 }
