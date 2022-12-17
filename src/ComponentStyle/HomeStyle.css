@@ -15,12 +15,12 @@
 }
 
 .tittle img {
-    width: 50vh;
+    width: 42vh;
 }
 
 .buttonContainer {
     width: 100%;
-    margin-top: 20%;
+    margin-top: 25%;
 }
 
 .MainButtonContainer {
@@ -34,10 +34,10 @@
 .head {
     position: absolute;
     z-index: -999;
-    width: 59vh;
+    width: 55vh;
     top: 0;
     left: 0;
-    margin-right: 5px;
+    right: 0;
 }
 
 .MainButtonContainer img {

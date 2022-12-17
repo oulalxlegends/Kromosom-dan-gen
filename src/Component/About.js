@@ -1,7 +1,7 @@
 import React from "react";
 import "../ComponentStyle/HomeStyle.css";
-import ArrowLeft from "../Asset/ArrowLeft.svg";
-import ArrowRight from "../Asset/ArrowRight.svg";
+import ArrowLeft from "../Asset/ArrowLeft.png";
+import ArrowRight from "../Asset/ArrowRight.png";
 import home from "../Asset/homeIcon.svg";
 import music from "../Asset/music.svg";
 

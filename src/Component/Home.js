@@ -28,8 +28,9 @@ const Home =({play, playMusic, setOpenNav})=>{
                     <Link onClick={()=> setOpenNav(true)} className="Link" to="/info">
                         <img alt="info" onClick={playMusic} src={info} />
                     </Link>
-                    
+                    <Link onClickCapture={()=> setOpenNav(true)} to="/about">
                     <img alt="ask" src={ask} />
+                    </Link>
                     
                 </div>
             

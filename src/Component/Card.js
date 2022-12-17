@@ -11,6 +11,8 @@ import TransModal from "./TransModal";
 import RegModal from "./RegModal";
 import kromosom from "../Asset/kromosom.png";
 import gen from "../Asset/gen.png";
+import dna from "../Asset/dna.png";
+import rna from "../Asset/rna.png";
 
 
 
@@ -36,6 +38,14 @@ const Card =({play})=> {
                 <button onClick={() => setOpenAuxModal(true)}>
                     <img className="iconmateri" src={gen} />
                     <h1>Gen</h1>
+                </button>
+                <button onClick={() => setOpenLinkingModal(true)}>
+                    <img className="iconmateri" src={rna} />
+                    <h1>DNA</h1>
+                </button>
+                <button onClick={() => setOpenTransModal(true)}>
+                    <img className="iconmateri" src={dna} />
+                    <h1>RNA</h1>
                 </button>
             </div>
             <div className="ArrowContainer">
